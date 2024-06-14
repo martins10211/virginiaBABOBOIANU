@@ -1,0 +1,40 @@
+#heading{
+    color: #3a6931ff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#thislink{
+color: #ff0000; 
+}
+
+#proceed{
+    color: rgb(203, 248, 5);
+}
+#body{
+color: #ee0a0a;
+background-color: #ee0a0a;
+}
+#question1{
+
+
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#qtext{
+
+
+    color: #ff0000;
+}
+#qtext2{
+
+    color: #ee0a0a;
+}
+#textwhy{
+
+    width: 50px;
+    height: 100px;
+    font-size: 20px;
+    
+}
